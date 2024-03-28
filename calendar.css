@@ -5,11 +5,16 @@ p{
     color: lightblue;
 }
 .verde p{
-    color: palegreen
+    color: palegreen;
+
 }
 .rosa p{
-    color: lightpink
+    color: lightpink;
+
 }
 .roxo p{
-    color: slateblue
+    color: slateblue;
+}
+.vei{
+    flex-direction: row;
 }
