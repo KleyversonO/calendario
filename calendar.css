@@ -1,0 +1,15 @@
+p{
+    font-size: 20px;
+}
+.azul p{
+    color: lightblue;
+}
+.verde p{
+    color: palegreen
+}
+.rosa p{
+    color: lightpink
+}
+.roxo p{
+    color: slateblue
+}
