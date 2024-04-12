@@ -7,6 +7,8 @@ Um site com um calendario do dia 1 até o dia 31, aonde é possivel escolger uma
 ## Função
 Esse site tem a função de demarcar dias de um mês de acordo com a preferência do usuario. Especificamente para que seja enviado transportes de entrega. É indicado que use cada cor disponivel apenas 3 vezes.
 
+![Calenndario](img/Calen.gif)
+
 ## Tecnologias utilizadas 
 
 * ``HTML 5``
