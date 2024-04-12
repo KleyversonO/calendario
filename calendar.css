@@ -25,17 +25,30 @@ table.calendar {
 }
  
 table.calendar th {
-    background-color: #b4b4b4;
-    padding: 50px;
+    padding: 5px 10px;
     text-align: center;
+    color: #af0b0b;
+    font-family:sans-serif;
+    border: 3px solid #af0b0b;
+    border-radius: 3px;
+    
 }
  
 table.calendar td {
     padding: 25px;
     border: 3px solid #af0b0b;
     text-align: center;
+    color: #af0b0b;
+    font-family:sans-serif
 }
-label.color{
-    text-align: center;
-    
+label{
+    font-weight: 600;
+    display:block;
+    margin-bottom: 5px;
+}
+select{
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 5px;
+    box-shadow: none;
 }

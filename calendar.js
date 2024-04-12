@@ -9,20 +9,5 @@ function colorirDia() {
         return;
       }
      
-      days = Math.max(1, parseInt(days));
-     
-      let colorCounts = {};
-      if (localStorage.getItem('colorCounts')) {
-        colorCounts = JSON.parse(localStorage.getItem('colorCounts'));
-      }
-     
-      if (colorCounts[color] && colorCounts[color] >= 3) {
-        alert(`A cor "${color}" já foi usada 3 vezes. Escolha outra cor.`);
-        return;
-      }
-     
-      colorCounts[color] = (colorCounts[color] || 0) + 1;
-      localStorage.setItem('colorCounts', JSON.stringify(colorCounts));
-     
       td.style.backgroundColor = color;
     }

@@ -5,7 +5,7 @@ Esse trabalho é um calendário feito para entregadores, aonde se marca o no qua
 Um site com um calendario do dia 1 até o dia 31, aonde é possivel escolger uma cor entre azul, verde, rosa e roxo, e selecionar um dia, assim você pode selecionar um dia e uma cor, na parte de baixo do site é informado 4 veiculos e a cor respectiva de cada. Essa funcionalidade serve para que cada cor seja representada por um veiculo. 
 
 ## Função
-Esse site tem a função de demarcar dias de um mês de acordo com a preferência do usuario. Especificamente para que seja enviado transportes de entrega.
+Esse site tem a função de demarcar dias de um mês de acordo com a preferência do usuario. Especificamente para que seja enviado transportes de entrega. É indicado que use cada cor disponivel apenas 3 vezes.
 
 ## Tecnologias utilizadas 
 
@@ -14,7 +14,7 @@ Esse site tem a função de demarcar dias de um mês de acordo com a preferênci
 * ``Java Script``
 * ``Github``
 * ``VsCode``
-* ``Microsoft Teams`
+* ``Microsoft Teams``
 
 ## Autor
 Kleyverson de Oliveira Sampaio
